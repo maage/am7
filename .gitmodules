@@ -1,0 +1,3 @@
+[submodule "modules/AnyEvent-SerialPort"]
+	path = modules/AnyEvent-SerialPort
+	url = https://github.com/beanz/anyevent-serialport-perl.git
