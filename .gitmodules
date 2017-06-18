@@ -1,3 +1,7 @@
 [submodule "modules/AnyEvent-SerialPort"]
 	path = modules/AnyEvent-SerialPort
 	url = https://github.com/beanz/anyevent-serialport-perl.git
+[submodule "github-maage-perl-Device-SerialPort"]
+	path = modules/Device-SerialPort
+	url = https://github.com/maage/perl-Device-SerialPort.git
+	branch = fixes
